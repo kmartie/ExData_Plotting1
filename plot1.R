@@ -1,5 +1,4 @@
 library(dplyr)
-library(lubridate)
 
 my_data <- read.delim("household_power_consumption.txt",
                       sep = ";",
